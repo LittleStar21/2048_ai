@@ -15,8 +15,8 @@ FONT_COLOR_DARK = (119, 110, 101)
 
 # Colors
 BACKGROUND_COLOR = (187, 173, 160)
+TILE_DEFAULT_BACKGROUND = (204, 192, 179)
 TILE_COLOR = {
-    0: (204, 192, 179),
     2: (238, 228, 218),
     4: (237, 224, 200),
     8: (242, 177, 121),
@@ -30,3 +30,6 @@ TILE_COLOR = {
     2048: (237, 194, 46),
 }
 TILE_COLOR_OTHER = (0, 0, 0)
+
+# Animation
+ANIMATION_SPEED = 60
